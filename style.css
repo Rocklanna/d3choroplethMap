@@ -1,0 +1,33 @@
+body{
+  background-color:white;
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+#topoMap{
+ 
+}
+#tooltip{
+  background-color:rgb(251, 205, 113,0.8);
+  width:100px;
+  font-size:12px;
+  position:absolute;
+}
+#header{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+}
+
+#title{
+  font-size:45px;
+  font-weight:bold;
+  padding-bottom:30px;
+}
+
+#description{
+  font-size:15px;
+  font-weight:normal;
+}
